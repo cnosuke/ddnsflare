@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    curb (0.9.3)
+    rubyflare (0.2.0)
+      curb (~> 0.9.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rubyflare
+
+BUNDLED WITH
+   1.12.5
